@@ -1,7 +1,6 @@
 title: タイトル
 author: にゃんこ
 email: nyan@neko.world
-theme: minia
 description: > # this means to ignore newlines until "baseurl:"
   にゃんこは世界を救う。
   Write an awesome description for your new site here. You can edit this
@@ -13,3 +12,5 @@ twitter_username: your-twitter-handle # DO NOT include the @ character, or else 
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minia
